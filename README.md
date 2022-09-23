@@ -1,2 +1,2 @@
 # Code-Wars
-My Codewars Challanges!
+My Codewars Challenges!
